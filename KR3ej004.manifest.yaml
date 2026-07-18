@@ -30,8 +30,8 @@ assets:
   - {seq: 2, role: markers, filename: assets/KR3ej004_002.markers.yaml, hash: 'sha256:6b266d629ec892a12821b0acb7509c43b65756bb6fb78649366abea22af828c4'}
   - {seq: 3, role: markers, filename: assets/KR3ej004_003.markers.yaml, hash: 'sha256:b9a040f3313a2de08104f3728ceae59c1d03f7ca4c00e023cba55b6150c534d0'}
   - {seq: 4, role: markers, filename: assets/KR3ej004_004.markers.yaml, hash: 'sha256:757a64741ddef5a25147cabe0f9dbe365df4fa8c77ab0bcb084445370a7292aa'}
-  - {seq: 5, role: markers, filename: assets/KR3ej004_005.markers.yaml, hash: 'sha256:6a5579886daa41d0715e70f077ddec667f0e5ea5131846cbca99336f73579180'}
-  - {seq: 6, role: markers, filename: assets/KR3ej004_006.markers.yaml, hash: 'sha256:734a8d62137ee4985a9899b91b1b5c353cb58b9d74a438ae3b8cc890a0b05bef'}
+  - {seq: 5, role: markers, filename: assets/KR3ej004_005.markers.yaml, hash: 'sha256:6abcdcff87147d68b9eef86be7a79079b7e00d39eac2dbab68bf00fa18353a4d'}
+  - {seq: 6, role: markers, filename: assets/KR3ej004_006.markers.yaml, hash: 'sha256:f21c644809931497c08907d7c5c910033384f3f23611f0a28cdedae0c829694b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1473,7 +1473,7 @@ table_of_contents:
   label: 諸病應用方
   type: section
   level: 2
-hash: sha256:80b3cbbecfddd17fb08df7f6a944fc86732478e48b88aa81950345377c2b985a
+hash: sha256:ca545bebb30a92ef5545791a0f50e6139825cf852fd246b7aca5e92562f7663b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
